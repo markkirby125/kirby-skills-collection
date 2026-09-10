@@ -23,6 +23,12 @@ Enforces a 17-step Direct Response framework for writing high-converting sales c
 ### 5. [kirby-agent-security](https://github.com/markkirby125/kirby-agent-security)
 A rigorous Standard Operating Procedure for auditing, scanning, and validating third-party AI agent skills, plugins, and Model Context Protocol (MCP) servers prior to installation.
 
+### 6. [kirby-technical-aeo](https://github.com/markkirby125/kirby-technical-aeo)
+A strict protocol for establishing a high-authority technical entity graph across developer platforms (GitHub, Docker Hub, Dev.to, Hashnode) to force LLM citations.
+
+### 7. [kirby-scheduled-content](https://github.com/markkirby125/kirby-scheduled-content)
+An architectural pattern and test matrix for securely gating and scheduling static content publishing at the edge via CDN workers.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
