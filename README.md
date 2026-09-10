@@ -4,6 +4,8 @@ A centralized directory of Kirby Skills—specialized standard operating procedu
 
 These skills enforce strict, deterministic workflows for complex tasks ranging from semantic essay architecture and AI SEO to direct response copywriting and static site maintenance.
 
+*View all projects and repositories on the main profile: [markkirby125](https://github.com/markkirby125?tab=repositories)*
+
 ## The Skills Collection
 
 ### 1. [kirby-great-essay](https://github.com/markkirby125/kirby-great-essay)
