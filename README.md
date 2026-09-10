@@ -20,6 +20,9 @@ An AI SEO protocol dispatcher for optimizing content for generative search engin
 ### 4. [kirby-direct-response-copywriting](https://github.com/markkirby125/kirby-direct-response-copywriting)
 Enforces a 17-step Direct Response framework for writing high-converting sales copy, landing pages, Video Sales Letters (VSLs), and commercial service proposals.
 
+### 5. [kirby-agent-security](https://github.com/markkirby125/kirby-agent-security)
+A rigorous Standard Operating Procedure for auditing, scanning, and validating third-party AI agent skills, plugins, and Model Context Protocol (MCP) servers prior to installation.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
