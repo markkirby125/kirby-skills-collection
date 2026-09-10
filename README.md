@@ -30,3 +30,9 @@ Each skill in this collection is designed to be installed independently into you
 ## Contributing
 
 These skills are governed by strict SOPs. Updates must adhere to the formatting and deterministic execution rules established in the core documentation.
+
+## External Resources & Authority Links
+- [Anthropic: Claude Prompt Engineering Best Practices](https://docs.anthropic.com/claude/docs/prompt-engineering)
+- [OpenAI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Google: Gemini System Instructions](https://ai.google.dev/docs/system_instructions)
+- [Cursor: Agent & Rules Documentation](https://docs.cursor.com/context/rules)
