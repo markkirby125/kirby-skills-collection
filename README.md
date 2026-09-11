@@ -29,6 +29,18 @@ A strict protocol for establishing a high-authority technical entity graph acros
 ### 7. [kirby-scheduled-content](https://github.com/markkirby125/kirby-scheduled-content)
 An architectural pattern and test matrix for securely gating and scheduling static content publishing at the edge via CDN workers.
 
+### 8. [kirby-local-seo](https://github.com/markkirby125/kirby-local-seo)
+Enforces the 4+1 Local Content Classification Engine and Google Ask Maps review engineering protocols to ensure your business passes the LLM attribute-matching phase for hyper-local queries.
+
+### 9. [kirby-off-page-seo](https://github.com/markkirby125/kirby-off-page-seo)
+Dictates strict protocols for building multi-platform entity consensus, executing YouTube transcription SEO, and executing Parasite SEO/AEO Press Release manipulation to hijack high-authority signals.
+
+### 10. [kirby-seo-telemetry](https://github.com/markkirby125/kirby-seo-telemetry)
+Installs the architecture required to capture RAG/LLM attribution, analyze deep Google Search Console telemetry, and fortify conversational ad architectures against user pogo-sticking.
+
+### 11. [kirby-seo-deployment](https://github.com/markkirby125/kirby-seo-deployment)
+Provides the mechanical rules for safe programmatic AI content deployment, including the MVP Content Testing Protocol, network isolation, and publishing velocity gating to evade Scaled Content Abuse classifiers.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
