@@ -41,6 +41,9 @@ Installs the architecture required to capture RAG/LLM attribution, analyze deep 
 ### 11. [kirby-seo-deployment](https://github.com/markkirby125/kirby-seo-deployment)
 Provides the mechanical rules for safe programmatic AI content deployment, including the MVP Content Testing Protocol, network isolation, and publishing velocity gating to evade Scaled Content Abuse classifiers.
 
+### 12. [kirby-help](https://github.com/markkirby125/kirby-help)
+Centralized reference card and interactive directory that renders a dashboard of all installed Kirby skills inside an active agent session via the `/kirby` command.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
