@@ -44,6 +44,9 @@ Provides the mechanical rules for safe programmatic AI content deployment, inclu
 ### 12. [kirby-help](https://github.com/markkirby125/kirby-help)
 Centralized reference card and interactive directory that renders a dashboard of all installed Kirby skills inside an active agent session via the `/kirby` command.
 
+### 13. [kirby-agentmd-generation](https://github.com/markkirby125/kirby-agentmd-generation)
+Generates and slims down agent memory files (AGENTS.md / CLAUDE.md) by offloading reference knowledge into codebase-memory-mcp, while enforcing the correct initialization of the persistent memory-cache.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
