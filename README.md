@@ -50,6 +50,9 @@ Generates and slims down agent memory files (AGENTS.md / CLAUDE.md) by offloadin
 ### 14. [kirby-accessible-contrast](https://github.com/markkirby125/kirby-accessible-contrast)
 Forces AI agents to cross-examine UI palettes, CSS, and contrast ratios against strict RNIB sight loss and Colour Vision Deficiency (CVD) guidelines, eliminating mathematically-compliant but functionally-invisible colour pairings.
 
+### 15. [kirby-skills-tiff-collection](https://github.com/markkirby125/kirby-skills-tiff-collection)
+Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PLR Personalization & Framework Fusion suite. Enforces deterministic personalization, direct-response repurposing, and 15-point diagnostic debugging on PLR content.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.

@@ -29,6 +29,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 10 | [**kirby-seo-deployment**](../kirby-seo-deployment/SKILL.md) | SEO / Ops | `seo-deployment`, `publishing-velocity` | Programmatic deployment staging, publishing velocity rules & MVP content testing. |
 | 11 | [**kirby-seo-telemetry**](../kirby-seo-telemetry/SKILL.md) | SEO / Telemetry | `seo-attribution`, `gsc-telemetry` | AI attribution capture, Google Search Console telemetry & pogo-sticking defense. |
 | 12 | [**kirby-technical-aeo**](../kirby-technical-aeo/SKILL.md) | SEO / Technical | `technical-seo`, `entity-graph` | Docker Hub OCI metadata injection and circular GitHub linking for AEO citations. |
+| 13 | [**kirby-skills-tiff-collection**](../kirby-plr-skills/kirby-skills-tiff-collection/SKILL.md) | Copywriting / PLR | `kirby-tiff`, `plr-skills`, `framework-fusion` | Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PLR Personalization & Framework Fusion suite. |
 
 ---
 
