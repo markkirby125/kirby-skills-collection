@@ -47,6 +47,9 @@ Centralized reference card and interactive directory that renders a dashboard of
 ### 13. [kirby-agentmd-generation](https://github.com/markkirby125/kirby-agentmd-generation)
 Generates and slims down agent memory files (AGENTS.md / CLAUDE.md) by offloading reference knowledge into codebase-memory-mcp, while enforcing the correct initialization of the persistent memory-cache.
 
+### 14. [kirby-accessible-contrast](https://github.com/markkirby125/kirby-accessible-contrast)
+Forces AI agents to cross-examine UI palettes, CSS, and contrast ratios against strict RNIB sight loss and Colour Vision Deficiency (CVD) guidelines, eliminating mathematically-compliant but functionally-invisible colour pairings.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
