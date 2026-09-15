@@ -17,17 +17,17 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 
 | # | Skill | Category | Primary Triggers | Description |
 |---|---|---|---|---|
-| 1 | [**kirby-agent-security**](../kirby-agent-security/SKILL.md) | Security | `security-audit`, `mcp-scan` | Zero-Trust architecture for vetting third-party AI skills, plugins, and MCP servers. |
-| 2 | [**kirby-aiseo-skill**](../kirby-aiseo-skill/SKILL.md) | SEO / AEO | `seo`, `aiseo`, `geo`, `aeo` | Modular Answer Engine Optimization protocol for on-page & technical architecture. |
+| 1 | [**kirby-agent-security**](../kirby-agent-security/SKILL.md) | Security | `security-audit`, `mcp-scan`, `seo-mcp-readonly` | Zero-Trust architecture for vetting third-party AI skills, plugins, and MCP servers. |
+| 2 | [**kirby-aiseo-skill**](../kirby-aiseo-skill/SKILL.md) | SEO / AEO | `seo`, `aiseo`, `geo`, `aeo`, `crawl-depth`, `content-pruning` | Modular Answer Engine Optimization protocol for on-page & technical architecture. |
 | 3 | [**kirby-chrome-drift-prevention**](../kirby-chrome-drift-prevention/SKILL.md) | Architecture | `chrome-drift`, `static-site` | SOP-ARC-DRIFT-001 for preventing and resolving chrome drift on static sites. |
 | 4 | [**kirby-direct-response-copywriting**](../kirby-direct-response-copywriting/SKILL.md) | Copywriting | `copywriting`, `sales-copy` | 17-step Direct Response framework (The $7.8B Framework) for sales copy and VSLs. |
 | 5 | [**kirby-great-essay**](../kirby-great-essay/SKILL.md) | Writing | `essay`, `editorial`, `writing` | 7-Phase Fractal Essay Architecture for high-impact editorial thought leadership. |
 | 6 | [**kirby-help**](../kirby-help/SKILL.md) | Helper | `/kirby`, `kirby skills` | Reference card and interactive directory for all installed Kirby skills. |
-| 7 | [**kirby-local-seo**](../kirby-local-seo/SKILL.md) | SEO / Local | `local-seo`, `gbp`, `geogrid`, `ask-maps` | Local AI Search, GBP hygiene, Geogrid tracking, sponsorships & Ask Maps review velocity. |
-| 8 | [**kirby-off-page-seo**](../kirby-off-page-seo/SKILL.md) | SEO / Off-Page | `off-page-seo`, `backlinks`, `micro-influencers` | Multi-platform entity consensus, micro-influencer indexation & AEO PR syndication. |
+| 7 | [**kirby-local-seo**](../kirby-local-seo/SKILL.md) | SEO / Local | `local-seo`, `gbp`, `geogrid`, `ask-maps`, `90-day-sprint`, `local-links`, `sponsorships`, `review-velocity` | Local AI Search, GBP hygiene, Geogrid tracking, sponsorships & Ask Maps review velocity. |
+| 8 | [**kirby-off-page-seo**](../kirby-off-page-seo/SKILL.md) | SEO / Off-Page | `off-page-seo`, `backlinks`, `micro-influencers`, `reddit-hijacking`, `entity-corroboration` | Multi-platform entity consensus, micro-influencer indexation & AEO PR syndication. |
 | 9 | [**kirby-scheduled-content**](../kirby-scheduled-content/SKILL.md) | Infrastructure | `scheduled-publishing` | Edge-gated design pattern for securely scheduling static site publishing at the edge. |
-| 10 | [**kirby-seo-deployment**](../kirby-seo-deployment/SKILL.md) | SEO / Ops | `seo-deployment`, `publishing-velocity`, `satellite-sites` | Programmatic deployment staging, velocity rules, satellite EMDs & runaway publishing defense. |
-| 11 | [**kirby-seo-telemetry**](../kirby-seo-telemetry/SKILL.md) | SEO / Telemetry | `seo-attribution`, `gsc-telemetry` | AI attribution capture, Google Search Console telemetry & pogo-sticking defense. |
+| 10 | [**kirby-seo-deployment**](../kirby-seo-deployment/SKILL.md) | SEO / Ops | `seo-deployment`, `publishing-velocity`, `satellite-sites`, `emd`, `runaway-publishing` | Programmatic deployment staging, velocity rules, satellite EMDs & runaway publishing defense. |
+| 11 | [**kirby-seo-telemetry**](../kirby-seo-telemetry/SKILL.md) | SEO / Telemetry | `seo-attribution`, `gsc-telemetry`, `pogo-sticking`, `reddit-gsc` | AI attribution capture, Google Search Console telemetry & pogo-sticking defense. |
 | 12 | [**kirby-technical-aeo**](../kirby-technical-aeo/SKILL.md) | SEO / Technical | `technical-seo`, `entity-graph` | Docker Hub OCI metadata injection and circular GitHub linking for AEO citations. |
 | 13 | [**kirby-skills-tiff-collection**](../kirby-plr-skills/kirby-skills-tiff-collection/SKILL.md) | Copywriting / PLR | `kirby-tiff`, `plr-skills`, `framework-fusion` | Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PLR Personalization & Framework Fusion suite. |
 
