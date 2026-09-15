@@ -38,7 +38,7 @@ Centralised reference card and interactive directory that renders a dashboard of
 Enforces the 4+1 Local Content Classification Engine and Google Ask Maps review engineering protocols to ensure your business passes the LLM attribute-matching phase for hyper-local queries.
 
 ### 10. [kirby-off-page-seo](https://github.com/markkirby125/kirby-off-page-seo)
-Dictates strict protocols for building multi-platform entity consensus, executing YouTube transcription SEO, and executing Parasite SEO/AEO Press Release manipulation to hijack high-authority signals.
+Dictates strict protocols for building multi-platform entity consensus, executing YouTube transcription SEO, Parasite SEO/AEO Press Release manipulation, and SaaS listicle / competitive-gap link acquisition.
 
 ### 11. [kirby-scheduled-content](https://github.com/markkirby125/kirby-scheduled-content)
 An architectural pattern and test matrix for securely gating and scheduling static content publishing at the edge via CDN workers.
