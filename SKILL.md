@@ -32,6 +32,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 13 | [**kirby-seo-telemetry**](../kirby-seo-telemetry/SKILL.md) | SEO / Telemetry | `seo-attribution`, `gsc-telemetry`, `pogo-sticking`, `reddit-gsc` | AI attribution capture, Google Search Console telemetry & pogo-sticking defense. |
 | 14 | [**kirby-technical-aeo**](../kirby-technical-aeo/SKILL.md) | SEO / Technical | `technical-seo`, `entity-graph`, `docker-hub` | Docker Hub OCI metadata injection and circular GitHub linking for AEO citations. |
 | 15 | [**kirby-skills-tiff-collection**](../kirby-plr-skills/kirby-skills-tiff-collection/SKILL.md) | Copywriting / PLR | `kirby-tiff`, `plr-skills`, `tiff-collection` | Dispatcher for the Tiffany Lambert Two-Way PLR Fusion suite. |
+| 16 | [**kirby-open-code-review**](../kirby-open-code-review/SKILL.md) | Engineering | `ocr`, `open-code-review`, `ocr-scan`, `ocr-delegate` | Alibaba Open Code Review CLI: diff review, full-file scan, host-agent delegation. |
 
 ---
 

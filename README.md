@@ -55,6 +55,9 @@ A strict protocol for establishing a high-authority technical entity graph acros
 ### 15. [kirby-skills-tiff-collection](https://github.com/markkirby125/kirby-skills-tiff-collection)
 Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PLR Personalization & Framework Fusion suite. Enforces deterministic personalization, direct-response repurposing, and 15-point diagnostic debugging on PLR content.
 
+### 16. [kirby-open-code-review](https://github.com/markkirby125/kirby-open-code-review)
+Runs Alibaba Open Code Review (`ocr`) from an agent session: deterministic file selection plus line-level diff review, full-file scan, or host-agent delegation.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.
