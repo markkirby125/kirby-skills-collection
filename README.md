@@ -61,6 +61,9 @@ Runs Alibaba Open Code Review (`ocr`) from an agent session: deterministic file 
 ### 17. [kirby-preferred-sources](https://github.com/markkirby125/kirby-preferred-sources)
 Implements Google Preferred Sources, Direct Trust Overrides, high-converting AI Search follow CTAs, Discover Natural Language feed optimization, and Google News audio briefing attribution.
 
+### 18. [kirby-context-audit](https://github.com/markkirby125/kirby-context-audit)
+Cross-IDE AI coding agent context bloat, token burn, and skill health auditor for Antigravity, Cursor, Windsurf, Grok, Kimi Code, and Reasonix. Evaluates progressive disclosure vs brute-force injection loads, verifies dispatcher integrity, and enforces the Hollow Shell architecture.
+
 ## Usage
 
 Each skill in this collection is designed to be installed independently into your AI coding assistant (Antigravity, Cursor, Windsurf, etc.). Navigate to the individual repositories linked above to find their respective `SKILL.md` files and "Magic Prompts" for automated installation.

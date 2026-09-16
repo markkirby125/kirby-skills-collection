@@ -34,6 +34,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 15 | [**kirby-skills-tiff-collection**](../kirby-plr-skills/kirby-skills-tiff-collection/SKILL.md) | Copywriting / PLR | `kirby-tiff`, `plr-skills`, `tiff-collection` | Dispatcher for the Tiffany Lambert Two-Way PLR Fusion suite. |
 | 16 | [**kirby-open-code-review**](../kirby-open-code-review/SKILL.md) | Engineering | `ocr`, `open-code-review`, `ocr-scan`, `ocr-delegate` | Alibaba Open Code Review CLI: diff review, full-file scan, host-agent delegation. |
 | 17 | [**kirby-preferred-sources**](../kirby-preferred-sources/SKILL.md) | SEO / Direct Trust | `preferred-sources`, `direct-trust`, `google-ai-button`, `discover-nl`, `audio-briefings`, `trust-cta`, `preferred-source-tracking` | Google Preferred Sources, Direct Trust Overrides, Discover NL prompts & Google News audio briefing attribution. |
+| 18 | [**kirby-context-audit**](../kirby-context-audit/SKILL.md) | Engineering / Tools | `context bloat`, `token burn`, `audit context`, `audit skills`, `ai-context-audit`, `kirby-context-audit` | Cross-IDE AI coding agent context bloat, token burn, and skill health auditor (Antigravity, Cursor, Windsurf, Grok, Kimi, Reasonix). |
 
 ---
 
