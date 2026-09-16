@@ -20,7 +20,7 @@ A rigorous Standard Operating Procedure for auditing, scanning, and validating t
 Generates and slims down agent memory files (AGENTS.md / CLAUDE.md) by offloading reference knowledge into codebase-memory-mcp, while enforcing the correct initialization of the persistent memory-cache.
 
 ### 4. [kirby-aiseo-skill](https://github.com/markkirby125/kirby-aiseo-skill)
-An AI SEO protocol dispatcher for optimising content for generative search engines (ChatGPT, Perplexity, Google Ask Maps) and preventing algorithmic demotions like Scaled Content Abuse.
+An AI SEO protocol dispatcher for optimising content for generative search engines (ChatGPT, Perplexity, Google Ask Maps), visual SERP undertargeting detection across 4 anchor spots, the 1-Hour SEO Update protocol, and preventing algorithmic demotions like Scaled Content Abuse.
 
 ### 5. [kirby-chrome-drift-prevention](https://github.com/markkirby125/kirby-chrome-drift-prevention)
 Prevents "chrome drift" (inconsistent shared navigation, headers, footers) on multi-page static sites. It enforces partials-as-source-of-truth and provides strict mechanical rules for deterministic sync scripts.
@@ -35,7 +35,7 @@ Establishes the editorial framework for producing authoritative, high-retention 
 Centralised reference card and interactive directory that renders a dashboard of all installed Kirby skills inside an active agent session via the `/kirby` command.
 
 ### 9. [kirby-local-seo](https://github.com/markkirby125/kirby-local-seo)
-Enforces the 4+1 Local Content Classification Engine and Google Ask Maps review engineering protocols to ensure your business passes the LLM attribute-matching phase for hyper-local queries.
+Enforces the 4+1 Local Content Classification Engine, the Five-Page Lean Site architecture (Kylie Murphy Blueprint: on-page only, 0 backlinks, 10k clicks), and Google Ask Maps review engineering protocols to pass the LLM attribute-matching phase for hyper-local queries.
 
 ### 10. [kirby-off-page-seo](https://github.com/markkirby125/kirby-off-page-seo)
 Dictates strict protocols for building multi-platform entity consensus, executing YouTube transcription SEO, Parasite SEO/AEO Press Release manipulation, and SaaS listicle / competitive-gap link acquisition.
@@ -47,7 +47,7 @@ An architectural pattern and test matrix for securely gating and scheduling stat
 Provides the mechanical rules for safe programmatic AI content deployment, including the MVP Content Testing Protocol, network isolation, and publishing velocity gating to evade Scaled Content Abuse classifiers.
 
 ### 13. [kirby-seo-telemetry](https://github.com/markkirby125/kirby-seo-telemetry)
-Installs the architecture required to capture RAG/LLM attribution, analyze deep Google Search Console telemetry, and fortify conversational ad architectures against user pogo-sticking.
+Installs the architecture required to capture RAG/LLM attribution, run the 1-Hour SEO Update GSC striking-distance telemetry protocol (Positions 5–20 & 20–50 filters with 4-spot undertargeting DOM checks), analyze deep Google Search Console telemetry, and fortify conversational ad architectures against user pogo-sticking.
 
 ### 14. [kirby-technical-aeo](https://github.com/markkirby125/kirby-technical-aeo)
 A strict protocol for establishing a high-authority technical entity graph across developer platforms (GitHub, Docker Hub, Dev.to, Hashnode) to force LLM citations.
@@ -57,6 +57,9 @@ Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PL
 
 ### 16. [kirby-open-code-review](https://github.com/markkirby125/kirby-open-code-review)
 Runs Alibaba Open Code Review (`ocr`) from an agent session: deterministic file selection plus line-level diff review, full-file scan, or host-agent delegation.
+
+### 17. [kirby-preferred-sources](https://github.com/markkirby125/kirby-preferred-sources)
+Implements Google Preferred Sources, Direct Trust Overrides, high-converting AI Search follow CTAs, Discover Natural Language feed optimization, and Google News audio briefing attribution.
 
 ## Usage
 
