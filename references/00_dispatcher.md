@@ -28,8 +28,15 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 16 | [**kirby-open-code-review**](../../kirby-open-code-review/SKILL.md) | Engineering | `ocr`, `open-code-review`, `ocr-scan`, `ocr-delegate` | Alibaba Open Code Review CLI: diff review, full-file scan, host-agent delegation. |
 | 17 | [**kirby-preferred-sources**](../../kirby-preferred-sources/SKILL.md) | SEO / Direct Trust | `preferred-sources`, `direct-trust`, `google-ai-button`, `discover-nl`, `audio-briefings`, `trust-cta`, `preferred-source-tracking` | Google Preferred Sources, Direct Trust Overrides, Discover NL prompts & Google News audio briefing attribution. |
 | 18 | [**kirby-context-audit**](../../kirby-context-audit/SKILL.md) | Engineering / Tools | `context bloat`, `token burn`, `audit context`, `audit skills`, `ai-context-audit`, `kirby-context-audit` | Cross-IDE AI coding agent context bloat, token burn, and skill health auditor (Antigravity, Cursor, Windsurf, Grok, Kimi, Reasonix). |
+| 19 | [**kirby-fitzpatrick-writers-collection**](../../kirby-skills-writers-collection/kirby-fitzpatrick-writers-collection/SKILL.md) | Writing / Architecture | `fitzpatrick`, `cognitive-writing`, `locomotive-syntax`, `proposal-engine`, `writer-science` | Master router for the 48 William Fitzpatrick cognitive writing skills suite. |
 
 ---
+
+
+### William Fitzpatrick Cognitive Writing Suite (48 Skills)
+- **Master Router**: [kirby-fitzpatrick-writers-collection](../../kirby-skills-writers-collection/kirby-fitzpatrick-writers-collection/SKILL.md)
+- **Coverage**: 48 atomic skills across 6 categories: Sentence Mechanics (9), Paragraph Cohesion (6), Macro Architecture (6), Code Walkthroughs (7), System Grounding (9), and Cognitive Load & Tone (11).
+- **Universal Invocation**: Reference any atomic skill directly or route via the master collection.
 
 ## ⚡ Quick Invocation Guide
 - To list all available skills interactively: use `/kirby`.
