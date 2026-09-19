@@ -29,6 +29,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 17 | [**kirby-preferred-sources**](../../kirby-preferred-sources/SKILL.md) | SEO / Direct Trust | `preferred-sources`, `direct-trust`, `google-ai-button`, `discover-nl`, `audio-briefings`, `trust-cta`, `preferred-source-tracking` | Google Preferred Sources, Direct Trust Overrides, Discover NL prompts & Google News audio briefing attribution. |
 | 18 | [**kirby-context-audit**](../../kirby-context-audit/SKILL.md) | Engineering / Tools | `context bloat`, `token burn`, `audit context`, `audit skills`, `ai-context-audit`, `kirby-context-audit` | Cross-IDE AI coding agent context bloat, token burn, and skill health auditor (Antigravity, Cursor, Windsurf, Grok, Kimi, Reasonix). |
 | 19 | [**kirby-fitzpatrick-writers-collection**](../../kirby-skills-writers-collection/kirby-fitzpatrick-writers-collection/SKILL.md) | Writing / Architecture | `fitzpatrick`, `cognitive-writing`, `locomotive-syntax`, `proposal-engine`, `writer-science` | Master router for the 48 William Fitzpatrick cognitive writing skills suite. |
+| 20 | [**kirby-text-first-cro**](../../kirby-text-first-cro/SKILL.md) | Copywriting / CRO | `text-first-cro`, `hero-section`, `landing-page-cro`, `dashboard-trap`, `conversion-optimization` | Text-first CRO & hero architecture: typography as visual carrier, objection demolition, and anti-dashboard rules. |
 
 ---
 
