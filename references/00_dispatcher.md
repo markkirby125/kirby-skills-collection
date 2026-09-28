@@ -31,6 +31,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 19 | [**kirby-fitzpatrick-writers-collection**](../../kirby-skills-writers-collection/kirby-fitzpatrick-writers-collection/SKILL.md) | Writing / Architecture | `fitzpatrick`, `cognitive-writing`, `locomotive-syntax`, `proposal-engine`, `writer-science` | Master router for the 48 William Fitzpatrick cognitive writing skills suite. |
 | 20 | [**kirby-text-first-cro**](../../kirby-text-first-cro/SKILL.md) | Copywriting / CRO | `text-first-cro`, `hero-section`, `landing-page-cro`, `dashboard-trap`, `conversion-optimization` | Text-first CRO & hero architecture: typography as visual carrier, objection demolition, and anti-dashboard rules. |
 | 21 | [**kirby-persona-infj**](../../kirby-skills-writers-collection/kirby-persona-infj/SKILL.md) | Writing / Persona | `infj-persona`, `infj-writing`, `counselor-persona`, `infj-help` | Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona with tunable intensity (Persona Arc), gradients, and rhetorical vectors. |
+| 22 | [**kirby-helix-workflow**](../../kirby-helix-workflow/SKILL.md) | Workflow / Agent Ops | `helix workflow`, `bootstrap helix`, `deterministic gates`, `dual-tier memory` | Bootstraps the Shopify Helix agentic workflow: ordered checkpoints, context-isolated subagents, 4 deterministic gates, dual-tier learnings memory & human-gated rollback. |
 
 ---
 
