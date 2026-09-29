@@ -1,6 +1,6 @@
 ---
 name: kirby-skills-collection
-description: "Master index and dispatcher for all specialised Kirby AI Agent skills in the collection." Use this when working on skills collection.
+description: "Master index and dispatcher for all specialised Kirby AI Agent skills in the collection. Use this when working on skills collection."
 category: helper
 triggers: [kirby-collection, kirby-skills, kirby-index, kirby-library]
 risk: unverified
