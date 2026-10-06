@@ -34,7 +34,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 22 | [**kirby-helix-workflow**](../../kirby-helix-workflow/SKILL.md) | Workflow / Agent Ops | `helix workflow`, `bootstrap helix`, `deterministic gates`, `dual-tier memory` | Bootstraps the Shopify Helix agentic workflow: ordered checkpoints, context-isolated subagents, 4 deterministic gates, dual-tier learnings memory & human-gated rollback. |
 | 23 | [**kirby-zero-to-100-seo**](../../kirby-zero-to-100-seo/SKILL.md) | SEO / New Business | `zero-to-100`, `new-business`, `launch-site` | Charles Floate's A-to-Z playbook for launching a new business. Scaffolds on-site architecture and off-site playbook. |
 | 24 | [**kirby-saas-syndicate**](../../kirby-saas-syndicate/SKILL.md) | SEO / New Business | `saas-syndicate`, `nordvpn-tactic`, `parasite-saas` | Jackie Chow & David Quaid SaaS launch strategy. Scaffolds parasite SEO, Ryan Donnie staging workflows, and multi-brand generation. |
-| 25 | [**kirby-scrappy-local-launch**](../../kirby-scrappy-local-launch/SKILL.md) | SEO / New Business | `local seo`, `$100 local seo`, `scrappy local launch` | Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, an Astro template, and a 3-phase launch playbook. |
+| 25 | [**kirby-scrappy-local-launch**](../../kirby-scrappy-local-launch/SKILL.md) | SEO / New Business | `local seo`, `$100 local seo`, `scrappy local launch` | Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, Astro scaffolding, and a 3-phase launch playbook. |
 
 ---
 
