@@ -35,6 +35,7 @@ These skills enforce strict, deterministic standard operating procedures (SOPs) 
 | 23 | [**kirby-zero-to-100-seo**](../../kirby-zero-to-100-seo/SKILL.md) | SEO / New Business | `zero-to-100`, `new-business`, `launch-site` | Charles Floate's A-to-Z playbook for launching a new business. Scaffolds on-site architecture and off-site playbook. |
 | 24 | [**kirby-saas-syndicate**](../../kirby-saas-syndicate/SKILL.md) | SEO / New Business | `saas-syndicate`, `nordvpn-tactic`, `parasite-saas` | Jackie Chow & David Quaid SaaS launch strategy. Scaffolds parasite SEO, Ryan Donnie staging workflows, and multi-brand generation. |
 | 25 | [**kirby-scrappy-local-launch**](../../kirby-scrappy-local-launch/SKILL.md) | SEO / New Business | `local seo`, `$100 local seo`, `scrappy local launch` | Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, Astro scaffolding, and a 3-phase launch playbook. |
+| 26 | [**kirby-decision-engine-optimization**](../../kirby-decision-engine-optimization/SKILL.md) | SEO / DEO | `deo`, `decision-engine-optimization`, `procurement`, `tender`, `rfp`, `quote-comparison`, `proposal-structuring` | Win the LLM decision stage: adversarial reverse-audits, procurement micro-disclosures, KG gating, review ecosystems, and LLM-parseable proposals for quote-comparison moments. |
 
 ---
 
