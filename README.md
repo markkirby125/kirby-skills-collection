@@ -58,6 +58,12 @@ Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PL
 ### 16. [kirby-open-code-review](https://github.com/markkirby125/kirby-open-code-review)
 Runs Alibaba Open Code Review (`ocr`) from an agent session: deterministic file selection plus line-level diff review, full-file scan, or host-agent delegation.
 
+### 17. [kirby-ai-design-system](https://github.com/markkirby125/kirby-ai-design-system)
+Tri-Part AI design system: a Business Context Wiki for facts, a Brand Guidelines skill for tokenized taste, and a DOM-native execution toolstack (Paper.design MCP + Higgsfield) — escaping the Flat Pixel Trap for high-CTR YouTube thumbnails and vector-PDF lead magnets.
+
+### 18. [kirby-pocock-workflow](https://github.com/markkirby125/kirby-pocock-workflow)
+Matt Pocock's spec-driven engineering pipeline: grilling interviews + domain glossary, immutable specs, Smart Zone ticket DAGs, clean-head isolated builds, two-desk adversarial reviews, merge-danger PR gates, and deterministic retro loops.
+
 ### 17. [kirby-preferred-sources](https://github.com/markkirby125/kirby-preferred-sources)
 Implements Google Preferred Sources, Direct Trust Overrides, high-converting AI Search follow CTAs, Discover Natural Language feed optimization, and Google News audio briefing attribution.
 
