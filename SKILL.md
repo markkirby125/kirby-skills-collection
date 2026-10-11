@@ -4,7 +4,7 @@ description: "Master index and dispatcher for all specialised Kirby AI Agent ski
 category: helper
 triggers: [kirby-collection, kirby-skills, kirby-index, kirby-library]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
