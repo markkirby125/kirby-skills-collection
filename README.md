@@ -8,7 +8,7 @@ These skills enforce strict, deterministic workflows for complex tasks ranging f
 
 ## The Skills Collection
 
-Numbering matches the dispatcher in `SKILL.md`.
+Numbering matches the dispatcher in `references/00_dispatcher.md`.
 
 ### 1. [kirby-accessible-contrast](https://github.com/markkirby125/kirby-accessible-contrast)
 Forces AI agents to cross-examine UI palettes, CSS, and contrast ratios against strict RNIB sight loss and Colour Vision Deficiency (CVD) guidelines, eliminating mathematically-compliant but functionally-invisible colour pairings.
@@ -58,12 +58,6 @@ Master catalog and dispatcher wrapper for the Tiffany Lambert 8-Skill Two-Way PL
 ### 16. [kirby-open-code-review](https://github.com/markkirby125/kirby-open-code-review)
 Runs Alibaba Open Code Review (`ocr`) from an agent session: deterministic file selection plus line-level diff review, full-file scan, or host-agent delegation.
 
-### 17. [kirby-ai-design-system](https://github.com/markkirby125/kirby-ai-design-system)
-Tri-Part AI design system: a Business Context Wiki for facts, a Brand Guidelines skill for tokenized taste, and a DOM-native execution toolstack (Paper.design MCP + Higgsfield) — escaping the Flat Pixel Trap for high-CTR YouTube thumbnails and vector-PDF lead magnets.
-
-### 18. [kirby-pocock-workflow](https://github.com/markkirby125/kirby-pocock-workflow)
-Matt Pocock's spec-driven engineering pipeline: grilling interviews + domain glossary, immutable specs, Smart Zone ticket DAGs, clean-head isolated builds, two-desk adversarial reviews, merge-danger PR gates, and deterministic retro loops.
-
 ### 17. [kirby-preferred-sources](https://github.com/markkirby125/kirby-preferred-sources)
 Implements Google Preferred Sources, Direct Trust Overrides, high-converting AI Search follow CTAs, Discover Natural Language feed optimization, and Google News audio briefing attribution.
 
@@ -72,6 +66,51 @@ Cross-IDE AI coding agent context bloat, token burn, and skill health auditor fo
 
 ### 19. [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
 Master catalog and dispatcher router for the William Fitzpatrick Cognitive Writing Suite (48 atomic AI agent skills). Enforces cognitive writing science, locomotive syntax, syntactic compression, paragraph cohesion, fractal proposals, and calibrated technical tone across all AI coding assistants.
+
+### 20. [kirby-text-first-cro](https://github.com/markkirby125/kirby-text-first-cro)
+Text-first CRO and hero architecture: typography as the visual carrier, objection demolition, pricing parity audits, and scannable bullets over carousels.
+
+### 21. [kirby-persona-infj](https://github.com/markkirby125/kirby-persona-infj)
+Injects an authentic INFJ (Ni-Fe-Ti-Se) cognitive persona with tunable intensity, gradients, and rhetorical vectors.
+
+### 22. [kirby-helix-workflow](https://github.com/markkirby125/kirby-helix-workflow)
+Bootstraps the Shopify Helix agentic workflow: ordered checkpoints, context-isolated subagents, 4 deterministic gates, dual-tier learnings memory, and human-gated rollback.
+
+### 23. [kirby-zero-to-100-seo](https://github.com/markkirby125/kirby-zero-to-100-seo)
+Charles Floate's A-to-Z playbook for launching a new business: on-site architecture, a 3-tier launch horizon, and a 4-point Mountain Pattern safeguard against doorway penalization.
+
+### 24. [kirby-saas-syndicate](https://github.com/markkirby125/kirby-saas-syndicate)
+Jackie Chow and David Quaid SaaS launch strategy: parasite SEO scaffolding, multi-brand generation, and interactive calculator anchors.
+
+### 25. [kirby-scrappy-local-launch](https://github.com/markkirby125/kirby-scrappy-local-launch)
+Bootstraps a local business onto Google Maps with a $100 scrappy SEO framework, Astro scaffolding, a 3-phase launch playbook, and local context saturation.
+
+### 26. [kirby-decision-engine-optimization](https://github.com/markkirby125/kirby-decision-engine-optimization)
+Wins the LLM decision stage: adversarial reverse audits, procurement micro-disclosures, knowledge-graph gating, review ecosystems, and LLM-parseable proposals.
+
+### 27. [kirby-ai-design-system](https://github.com/markkirby125/kirby-ai-design-system)
+Tri-Part AI design system: a Business Context Wiki for facts, a Brand Guidelines skill for tokenized taste, and a DOM-native execution toolstack (Paper.design MCP + Higgsfield) — escaping the Flat Pixel Trap for high-CTR YouTube thumbnails and vector-PDF lead magnets.
+
+### 28. [kirby-pocock-workflow](https://github.com/markkirby125/kirby-pocock-workflow)
+Matt Pocock's spec-driven engineering pipeline: grilling interviews + domain glossary, immutable specs, Smart Zone ticket DAGs, clean-head isolated builds, two-desk adversarial reviews, merge-danger PR gates, and deterministic retro loops.
+
+### 29. [kirby-seo-timing-benchmarks](https://github.com/markkirby125/kirby-seo-timing-benchmarks)
+SEO timeline forecasting, stall triage (quality vs. technical), client SLA governance, and the 90-day evaluation gate.
+
+### 30. [kirby-paid-acquisition](https://github.com/markkirby125/kirby-paid-acquisition)
+Google and Meta paid acquisition: Quality Score trinity, STAGs, negative-keyword shields, Meta scaling, and small-town low-volume PPC with an advertorial bridge.
+
+### 31. [kirby-agentic-marketing-fleet](https://github.com/markkirby125/kirby-agentic-marketing-fleet)
+Autonomous multi-agent AI marketing agency fleet: 6 parallel CLI subagents, a 0-100 audit scorecard, an evidence-tiered defect taxonomy, and audit report PDFs.
+
+### 32. [kirby-governor-mcp](https://github.com/markkirby125/kirby-governor-mcp)
+Zero-trust engineering governor MCP server enforcing execution contracts (altitude, depth, empirical proof) and cross-model adversarial diff verification.
+
+### 33. [kirby-grounded-seo-auditor](https://github.com/markkirby125/kirby-grounded-seo-auditor)
+Data-grounded SEO and AI search audit: live GSC/GA4/SERP data or [Pending Connection], a buyer-question gap audit, and a payoff/effort top-10 fixes scorecard.
+
+### 34. [kirby-depth-prompt](https://github.com/markkirby125/kirby-depth-prompt)
+Rewrites a shallow or persona prompt with Felix Rieseberg's four depth questions, shows the rewrite, and runs it only on confirmation.
 
 ## Usage
 
