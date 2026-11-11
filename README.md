@@ -44,7 +44,7 @@ Dictates strict protocols for building multi-platform entity consensus, executin
 An architectural pattern and test matrix for securely gating and scheduling static content publishing at the edge via CDN workers.
 
 ### 12. [kirby-seo-deployment](https://github.com/markkirby125/kirby-seo-deployment)
-Provides the mechanical rules for safe programmatic AI content deployment, including the MVP Content Testing Protocol, staged publishing-velocity gating, and a network-risk review (it does not build a network). The aim is rollouts where every page earns its place.
+Provides the mechanical rules for safe programmatic AI content deployment, including the MVP Content Testing Protocol, publishing-velocity gating, and a network-risk review only (no network build).
 
 ### 13. [kirby-seo-telemetry](https://github.com/markkirby125/kirby-seo-telemetry)
 Installs the architecture required to capture RAG/LLM attribution, run the 1-Hour SEO Update GSC striking-distance telemetry protocol (Positions 5–20 & 20–50 filters with 4-spot undertargeting DOM checks), analyze deep Google Search Console telemetry, and fortify conversational ad architectures against user pogo-sticking.
