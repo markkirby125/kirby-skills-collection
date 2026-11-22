@@ -8,7 +8,7 @@ These skills enforce strict, deterministic workflows for complex tasks ranging f
 
 ## The Skills Collection
 
-Numbering matches the dispatcher in `references/00_dispatcher.md`.
+This overview covers skills 1–34. The authoritative numbered index (all skills) is `references/00_dispatcher.md`.
 
 ### 1. [kirby-accessible-contrast](https://github.com/markkirby125/kirby-accessible-contrast)
 Forces AI agents to cross-examine UI palettes, CSS, and contrast ratios against strict RNIB sight loss and Colour Vision Deficiency (CVD) guidelines, eliminating mathematically-compliant but functionally-invisible colour pairings.
